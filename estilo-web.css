@@ -1,0 +1,196 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+	margin: 0px;
+	padding: 0px;
+}
+.titulo{
+	font-family: 'Montserrat', sans-serif;
+	height: 300px;
+	position: relative;
+	text-align: center;
+	color: white;
+	bottom: 300px;
+}
+.imagen-fondo{
+	position: relative;
+	size: 100%;
+	float:left;
+}
+.barra1{
+	position: absolute;
+	right: 150px;
+	top: 20px;
+}
+.barra{
+	color: rgba(120,120,120,1);
+	float:left;
+	padding:20px;
+	text-decoration: none;
+	size: 70%;
+}
+.latam_logo{
+	position: absolute;
+	top: 50px;
+	left: 120px;
+}
+
+.img{
+	width: 150px;
+}
+.boton-azul{
+	position: absolute;
+	padding: 10px;
+	background-color: #337AB7;
+	color: white;
+	text-decoration: none;
+	right: 630px;
+	top: 280px;
+	border-radius: 5px;
+}
+.boton-verde{
+	position: absolute;
+	padding: 10px;
+	background-color: #5CB85C;
+	color: white;
+	text-decoration: none;
+	right: 530px;
+	top: 280px;
+	border-radius: 5px;
+}
+.texto{
+	position: absolute;
+	color: white;
+	right: 340px;
+	top: 320px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.titulo-2{
+	font-size: 11px;
+	text-align: center;
+	color: #262626;
+	margin: 50px 0px 0px 0px;
+}
+.parrafo{
+	font-size: 12px;
+	text-align: center;
+	color: #262626;
+}
+.gente{
+	height: 250px;
+	padding: 0px 0px 0px 500px;
+	margin: 0px;
+}
+.box{
+	position: relative;
+	background-color: #FAFAFA;
+	padding: 0px;
+	margin: 0px;
+	border: #D5D5D5 solid 1px;
+	height: 250px;
+}
+
+.titulo-3{
+	position: absolute;
+	font-size: 11px;
+	text-align: center;
+	color: #262626;
+	right: 500px;
+	top: 30px;
+}
+.parrafo-2{
+	position: absolute;
+	font-size: 12px;
+	text-align: center;
+	color: #262626;
+	top: 65px;
+	right: 350px;
+}
+.boton-ins{
+	position: absolute;
+	padding: 10px;
+	background-color: #337AB7;
+	color: white;
+	text-decoration: none;
+	right: 600px;
+	top: 120px;
+	border-radius: 5px;
+	text-align: center;
+}
+.parrafo-3{
+	position: absolute;
+	font-size: 14px;
+	text-align: center;
+	color: #262626;
+	top: 160px;
+	right: 550px;
+}
+
+.cont{
+	position: absolute;
+	right: 900px;
+	margin: 50px 0px 0px 320px;
+	top: 20px;
+	color: #3C3A38;
+}
+.cont2{
+	position: absolute;
+	right: 650px;
+	margin: 50px 0px 0px 350px;
+	top: 20px;
+	color: #3C3A38;
+}
+.parrafo-4{
+	position: absolute;
+	font-size: 13px;
+	text-decoration: none;
+	top: 100px;
+	left: 320px;
+	color: #3C3A38;
+}
+.parrafo-5{
+	position: absolute;
+	font-size: 13px;
+	text-decoration: none;
+	top: 100px;
+	left: 560px;
+	color: #3C3A38;
+}
+.mail{
+	position: absolute;
+	padding: 0px 40px 0px 5px;
+	background-color: white;
+	left: 560px;
+	top: 150px;
+	border-radius: 5px;
+	border: #D5D5D5 solid 1px;
+	font-size: 13px;
+	color: grey;
+}
+.enviar{
+	position: absolute;
+	padding: 0px 10px 0px 10px;
+	background-color: white;
+	left: 720px;
+	top: 150px;
+	border-radius: 5px;
+	border: #D5D5D5 solid 1px;
+	font-size: 13px;
+}
+
+.barra-final{
+	position: absolute;
+	width: 100%;
+	padding: 15px 100px 15px 0px;
+	background-color: #262626;
+	color: white;
+	text-align: center;
+	top: 300px;
+	
+}
